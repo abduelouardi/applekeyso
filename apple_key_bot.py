@@ -26,7 +26,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Bot configuration
-TELEGRAM_TOKEN = "8145860372:AAHSoyIAoUn454NEe8huepgHPhtdAcFN6MY"
+TELEGRAM_TOKEN = "7623137573:AAEHiRKpuG1T77cP6hWgyx_bai-G9IuP-0o"
 BASE_URL = "https://redeem.services.apple/card-apple-entertainment-offer-1-2025"
 
 # Service configurations
